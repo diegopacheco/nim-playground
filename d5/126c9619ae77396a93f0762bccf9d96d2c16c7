@@ -1,0 +1,21 @@
+base64-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+base64-fun/src/main.nim
+  s_89b5cea240e1c4::t_562b0a3c530e03 1-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "d5126c9619ae77396a93f0762bccf9d96d2c16c7",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
