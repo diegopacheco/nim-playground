@@ -1,0 +1,21 @@
+bitsets-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+bitsets-fun/src/main.nim
+  s_89b5cea240e1c4::t_513660cd28fb98 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "4b1c653adf446fae749dbecb0a1e10ca5baa2704",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
