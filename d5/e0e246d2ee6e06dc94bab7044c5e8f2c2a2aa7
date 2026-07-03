@@ -1,0 +1,21 @@
+deques-fun/src/main.nim
+  s_89b5cea240e1c4::t_be4a7c30cd7cf3 1-29
+deques-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d5e0e246d2ee6e06dc94bab7044c5e8f2c2a2aa7",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
