@@ -1,0 +1,21 @@
+enums-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+enums-fun/src/main.nim
+  s_89b5cea240e1c4::t_b020669a712dfa 1-31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9674d1e99e1f8a846dde3ade8f67617396a1b3a5",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
