@@ -1,0 +1,21 @@
+exceptions-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+exceptions-fun/src/main.nim
+  s_89b5cea240e1c4::t_ac2d82ba18e648 1-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "55db9a9658e9ea84d083a501d6c81a7f2a4209d5",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
