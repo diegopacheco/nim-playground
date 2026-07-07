@@ -1,0 +1,21 @@
+math-fun/src/main.nim
+  s_89b5cea240e1c4::t_cb1bfc927bdc08 1-28
+math-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e61e9a4167b3ba78c0b53a01c92df093ce1c995c",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
