@@ -1,0 +1,21 @@
+sugar-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+sugar-fun/src/main.nim
+  s_89b5cea240e1c4::t_66e25ccba8401c 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.13",
+  "base_commit_sha": "5f09fdfcc04b8f65f187dd2639b7470fa904bd65",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
