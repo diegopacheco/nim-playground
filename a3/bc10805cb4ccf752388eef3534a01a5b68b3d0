@@ -1,0 +1,21 @@
+varargs-fun/src/main.nim
+  s_89b5cea240e1c4::t_c27e7dedddc3f0 1-31
+varargs-fun/run.sh
+  s_89b5cea240e1c4::t_3ecf9d73f22581 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "a3bc10805cb4ccf752388eef3534a01a5b68b3d0",
+  "prompts": {},
+  "sessions": {
+    "s_89b5cea240e1c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2df551c4-780c-4fe6-9e73-22eabf257b5f",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
